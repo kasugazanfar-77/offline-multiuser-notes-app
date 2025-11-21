@@ -1,0 +1,12 @@
+expo
+react
+react-dom
+react-native
+expo-file-system
+expo-image-picker
+@react-native-async-storage/async-storage
+@react-navigation/native
+@react-navigation/stack
+expo-status-bar
+expo-constants
+uuid
